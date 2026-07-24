@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text</string>
+    <string name="log_in">Log in</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="remember_this_password">Remember this password</string>
+    <string name="cancel">Cancel</string>
+    <string name="text">Text</string>
+    <string name="saved">Saved</string>
+</resources>
